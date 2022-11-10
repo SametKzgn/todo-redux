@@ -15,6 +15,10 @@ root.render(
 
   </React.StrictMode>
 );
+//burada store ı provider a ekliyoruz ve app.js de store ı kullanıyoruz  ve store ı combine ediyoruz
+
+
+
 
 // If you want to start measuring performance in your app, pass a function
 // to log results (for example: reportWebVitals(console.log))
